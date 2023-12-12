@@ -7,12 +7,16 @@
 ## Data Structure and Algorithms
 - In this repository, I will post links to 10 DSA questions every day( Question level - Starting from basic), from Day 1 to Day 100.
 - On Saturdays and Sundays I will post 20 questions.
-- Strategy - 4 hrs ( 3 hrs to solve and 1 hr to understand the solution if you are unable to solve the question, but there are no fast and hard rules)
+- **Strategy**
+  ---
+- **Monday to Friday- (10 Questions) 4 hrs** ( 3 hrs to solve and 1 hr to understand the solution if you are unable to solve the question, but there are no fast and hard rules)
+- **Saturday + Sunday - 6 + hrs according to time( 20 questions)**.
 - If any question is solved already memorize logic and concepts.
 - These links will be present in this readme as well as in the issue sections.
 - There will be a **LOOSER** box for each day in this readme, displaying the names of people who participated in **100 Days of Code** and did not complete the given tasks on a particular day.
-- All the questions must be attempted in C++ or Python.
-- POTD of Leetcode and GFG will continue.
+- All the questions must be attempted in C++ or Python. Other language is also allowed.
+> POTD of Leetcode and GFG will continue.
+> A Weekly Contest will be added if All desired Questions have been completed.
 
 ---
 
@@ -21,7 +25,6 @@
 ---
 
 ![Number of Days](https://img.shields.io/badge/Number%20of%20Days-100-brightgreen)
-
 
 ---
 
@@ -36,7 +39,7 @@
 ### **Day minus 2**
 #### Tasks
 - [ ] Learn Git/GitHub.
-- [ ] Get familiar with tools and coding platform.
+- [ ] Get familiar with tools and coding platforms.
 > **LOOSER BOX** : Empty
  
 
