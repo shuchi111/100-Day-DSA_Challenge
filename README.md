@@ -14,6 +14,7 @@
 - If any question is solved already memorize logic and concepts.
 - These links will be present in this readme as well as in the issue sections.
 - There will be a **LOOSER** box for each day in this readme, displaying the names of people who participated in **100 Days of Code** and did not complete the given tasks on a particular day.
+- Make a folder by your name if you are participating with me, and fill box day by day.
 - All the questions must be attempted in C++ or Python. Other language is also allowed.
 > POTD of Leetcode and GFG will continue.
 <br>
@@ -55,6 +56,12 @@
 > **LOOSER BOX** : Empty
 
 ---
+### **Day 0
+- [ ] Demo prerequisite
+- [ ] Prepare for this WAR✌
+
+---
+
 
 ### **Day 1**
 #### Tasks
