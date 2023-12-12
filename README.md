@@ -16,7 +16,9 @@
 - There will be a **LOOSER** box for each day in this readme, displaying the names of people who participated in **100 Days of Code** and did not complete the given tasks on a particular day.
 - All the questions must be attempted in C++ or Python. Other language is also allowed.
 > POTD of Leetcode and GFG will continue.
-> A Weekly Contest will be added if All desired Questions have been completed.
+<br>
+-A Weekly Contest will be added if All desired Questions have been completed.
+<br>
 
 ---
 
