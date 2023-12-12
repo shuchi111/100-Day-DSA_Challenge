@@ -1,6 +1,6 @@
-🎯 **100-Day-Code Challenge** 🎯
+🎯 **100-Days-DSA Challenge** 
 ---
-# 100 Days of Code
+
 ![emoji shuchi](https://github.com/shuchi111/100-Day-DSA_Challenge/assets/107612618/6b9009d5-3401-4660-9bce-2112bde645dd)<br>
 
 
@@ -31,7 +31,7 @@
 
 ---
 
-### **Day minus 3**
+### **Day  -3**
 #### Tasks
 - [ ] Learn Git/GitHub.
 - [ ] Submit your Name for 100 Days of Code. 
@@ -39,7 +39,7 @@
 
 ---
 
-### **Day minus 2**
+### **Day -2**
 #### Tasks
 - [ ] Learn Git/GitHub.
 - [ ] Get familiar with tools and coding platforms.
@@ -48,7 +48,7 @@
 
   ---
 
-### **Day minus 1**
+### **Day  -1**
 #### Tasks
 - [ ] Learn Git/GitHub.
 - [ ]  Submit your Name for 100 Days of Code.
