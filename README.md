@@ -12,9 +12,23 @@
 - **Monday to Friday- (10 Questions) 4 hrs** ( 3 hrs to solve and 1 hr to understand the solution if you are unable to solve the question. You can get help from online resources, there are no fast and hard rules)
 - **Saturday + Sunday - 6 + hrs according to time( 20 questions)**.
 - If any question is solved already,  memorize logic and concepts.
+  ---
+  Participation Rule
 - These links will be present in this readme as well as in the issue sections.
 - There will be a **LOOSER** box for each day in this readme, displaying the names of people who participated in **100 Days of Code** and completed the given tasks on a particular day.
+- Mark **star** to repository and **fork**
+  
+  **Forking a Repository on GitHub:**
+- 1. Visit the Repository on GitHub:
+-2. Open the GitHub repository you want to fork in your web browser.
+- Fork the Repository:
+Click on the
+ ```bash
+"Fork" button in the top-right corner of the GitHub page.
+```
+This creates a copy of the repository under your GitHub account.
 - Make a folder by your name if you are participating with me, and fill the box day by day.
+- 
 - All the questions must be attempted in C++ or Python. Other language is also allowed.
 > POTD of Leetcode and GFG will continue.
 <br>
