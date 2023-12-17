@@ -9,11 +9,11 @@
 - On Saturdays and Sundays I will post 20 questions.
 - **Strategy**
   ---
-- **Monday to Friday- (10 Questions) 4 hrs** ( 3 hrs to solve and 1 hr to understand the solution if you are unable to solve the question. You can take help from online resources, there are no fast and hard rules)
+- **Monday to Friday- (10 Questions) 4 hrs** ( 3 hrs to solve and 1 hr to understand the solution if you are unable to solve the question. You can get help from online resources, there are no fast and hard rules)
 - **Saturday + Sunday - 6 + hrs according to time( 20 questions)**.
 - If any question is solved already,  memorize logic and concepts.
 - These links will be present in this readme as well as in the issue sections.
-- There will be a **LOOSER** box for each day in this readme, displaying the names of people who participated in **100 Days of Code** and did not complete the given tasks on a particular day.
+- There will be a **LOOSER** box for each day in this readme, displaying the names of people who participated in **100 Days of Code** and completed the given tasks on a particular day.
 - Make a folder by your name if you are participating with me, and fill the box day by day.
 - All the questions must be attempted in C++ or Python. Other language is also allowed.
 > POTD of Leetcode and GFG will continue.
@@ -23,7 +23,7 @@
 
 ---
 
-> 100 Days of Code will start from 15 Dec 2023
+> 100 Days of Code will start from 16 Dec 2023
 
 ---
 
