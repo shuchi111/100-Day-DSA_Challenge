@@ -33,27 +33,27 @@
 
 ### **Day  -3**
 #### Tasks
-- [ ] Learn Git/GitHub.
-- [ ] Submit your Name for 100 Days of Code. 
-> **LOOSER BOX** : Empty
+- [x] Learn Git/GitHub.
+- [x] Submit your Name for 100 Days of Code. 
+> **LOOSER BOX** : Shuchi
 
 ---
 
 ### **Day -2**
 #### Tasks
-- [ ] Learn Git/GitHub.
-- [ ] Get familiar with tools and coding platforms.
-> **LOOSER BOX** : Empty
+- [x] Learn Git/GitHub.
+- [x] Get familiar with tools and coding platforms.
+> **LOOSER BOX** : Shuchi
  
 
   ---
 
 ### **Day  -1**
 #### Tasks
-- [ ] Learn Git/GitHub.
-- [ ]  Submit your Name for 100 Days of Code.
-- [ ]  Markdown your calendar and time.
-> **LOOSER BOX** : Empty
+- [x] Learn Git/GitHub.
+- [x]  Submit your Name for 100 Days of Code.
+- [x]  Markdown your calendar and time.
+> **LOOSER BOX** : Shuchi
 
 ---
 ### **Day 0
