@@ -13,14 +13,15 @@
 - **Saturday + Sunday - 6 + hrs according to time( 20 questions)**.
 - If any question is solved already,  memorize logic and concepts.
   ---
-  Participation Rule
+  **Participation Rule**
+  ---
 - These links will be present in this readme as well as in the issue sections.
 - There will be a **LOOSER** box for each day in this readme, displaying the names of people who participated in **100 Days of Code** and completed the given tasks on a particular day.
 - Mark **star** to repository and **fork**
   
   **Forking a Repository on GitHub:**
-- 1. Visit the Repository on GitHub:
--2. Open the GitHub repository you want to fork in your web browser.
+-  Visit the Repository on GitHub:
+-  Open the GitHub repository you want to fork in your web browser.
 - Fork the Repository:
 Click on the
  ```bash
