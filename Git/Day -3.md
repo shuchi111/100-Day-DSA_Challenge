@@ -81,7 +81,8 @@ cd <folder_name>
 3. staged: The file is ready to be committed
 4. unmodified: unchanged
    
-   
+   ![image](https://github.com/shuchi111/100-Day-DSA_Challenge/assets/107612618/687b18dd-54e9-4187-bde4-4e460673e89b)
+
 
 
 
