@@ -70,10 +70,19 @@ Status - Displays the state of the code
 ```bash
 git status
 ```
-**Change directory
+**Change directory**
 ```bash
 cd <folder_name>
 ```
+**To come out to a directory**
+```bash
+cd ..
+```
+**Make directory**
+```bash
+mkdir <directory_name>
+```
+
 # Types of status
 
 1. Untracked: new files that git doesn't yet track
@@ -81,7 +90,45 @@ cd <folder_name>
 3. staged: The file is ready to be committed
 4. unmodified: unchanged
    
-   ![image](https://github.com/shuchi111/100-Day-DSA_Challenge/assets/107612618/687b18dd-54e9-4187-bde4-4e460673e89b)
+   ![image](https://github.com/shuchi111/100-Day-DSA_Challenge/assets/107612618/b5a45c3f-6806-4d98-b2ce-07ff79076847)
+
+# Add & commit
+---
+**add** - adds new or changed files in your working directory to the git staging area.
+```bash
+git add <-file_name->
+git add.
+(for all file adding)
+```
+**Commit - it is the record of change
+```bash
+git commit -m "some message"
+```
+
+# Push command
+---
+Push- upload local repository content(laptop) to a remote repository(GitHub).
+```bash
+git push origin main
+```
+
+#Init command
+---
+init - used to create a new git repo
+```bash
+git init
+git remote -v   ( to verify remote)
+git branch      ( to check branch)
+git branch -M main    ( to rename branch )
+git push origin main
+```
+
+
+
+
+
+
+
 
 
 
