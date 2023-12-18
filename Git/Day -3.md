@@ -112,7 +112,7 @@ Push- upload local repository content(laptop) to a remote repository(GitHub).
 git push origin main
 ```
 
-#Init command
+# Init command
 ---
 init - used to create a new git repo
 ```bash
@@ -121,7 +121,13 @@ git remote -v   ( to verify remote)
 git branch      ( to check branch)
 git branch -M main    ( to rename branch )
 git push origin main
+git push -u  origin main
 ```
+-u: Short for **set-upstream**. It establishes a tracking relationship between the local branch and the remote branch.
+**origin**: The name of the remote repository. This is often named origin by convention.
+
+**main**: The name of the local branch you are pushing.
+
 
 
 
