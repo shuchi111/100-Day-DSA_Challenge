@@ -32,7 +32,7 @@ This creates a copy of the repository under your GitHub account.
  4.  Make a folder by your name or day if you are participating with me, and fill the box day by day.
 - Commit code and documentation daily.
 - All the questions must be attempted in C++ or Python. Other language is also allowed.
-> POTD of Leetcode and GFG will continue.
+> POTD of [Leetcode](https://github.com/shuchi111/DSA/tree/string) and GFG will continue.
 <br>
 -A Weekly Contest will be added if All assigned Questions have been completed.
 <br>
