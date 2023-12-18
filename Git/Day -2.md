@@ -66,31 +66,36 @@ To add all changes:
     ```bash
     git merge <branch_name>
     ```
-12. Pull changes from a Remote Repository:
+    delete branch
+    ```bash
+    git branch -d <branch_name>
+    ```
+   
+13. Pull changes from a Remote Repository:
     ```bash
     git pull origin <branch_name>
-13. Push Changes to a remote Repository:
+14. Push Changes to a remote Repository:
     ```bash
     git push origin <branch_name>
-14. Show Remote Repository:
+15. Show Remote Repository:
     ```bash
     git remote -v
-15. Fetch Changes from a Remote Repository
+16. Fetch Changes from a Remote Repository
     ```bash
     git fetch
-16. Undo Changes in Working Directory:
+17. Undo Changes in Working Directory:
     ```bash
     git checkout -- <file_name>
 
-17. Discard Changes in the staging Area:
+18. Discard Changes in the staging Area:
     ```bash
     git reset
 
-18. Undo the last commit:
+19. Undo the last commit:
     ```bash
     git reset HEAD^
 
-19. Create and Apply a patch:
+20. Create and Apply a patch:
 - A patch file in the context of Git is a text file that contains the differences between two sets of source code. It essentially represents the changes made to a set of files. The purpose of a patch file is to allow these changes to be applied to another copy of the code, bringing it up-to-date with the modifications made in the original version.
 
     ```bash
