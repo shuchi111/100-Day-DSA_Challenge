@@ -15,9 +15,9 @@
   ---
   **Participation Rule**
   ---
-- These links will be present in this readme as well as in the issue sections.
-- There will be a **LOOSER** box for each day in this readme, displaying the names of people who participated in **100 Days of Code** and completed the given tasks on a particular day.
-- Mark **star** to repository and **fork**
+ 1. Question links will be present in this readme as well as in the issue sections.
+ 2.  There will be a **LOOSER** box for each day in this readme, displaying the names of people who participated in **100 Days of Code** and completed the given tasks on a particular day.
+ 3. Mark **star** to repository and **fork**
   
   **Forking a Repository on GitHub:**
 -  Visit the Repository on GitHub:
@@ -28,12 +28,13 @@ Click on the
 "Fork" button in the top-right corner of the GitHub page.
 ```
 This creates a copy of the repository under your GitHub account.
-- Make a folder by your name if you are participating with me, and fill the box day by day.
-- 
+
+ 4.  Make a folder by your name or day if you are participating with me, and fill the box day by day.
+- Commit code and documentation daily.
 - All the questions must be attempted in C++ or Python. Other language is also allowed.
 > POTD of Leetcode and GFG will continue.
 <br>
--A Weekly Contest will be added if All desired Questions have been completed.
+-A Weekly Contest will be added if All assigned Questions have been completed.
 <br>
 
 ---
