@@ -1,19 +1,33 @@
+//question -3 
+ /*
+ 
+ 1
+ 12
+ 123
+ 1234
+ 12345
+ 
+ */
+
+
+
+
 #include<bits/stdc++.h>
 using namespace std;
-
-
-void print2(int n){
-	for(int i =0;i<n;i++) {
-		for( int j =0; j<=i; j++){
-			cout<<"*"; //make sure in onlinne compiler use space after star 
-			
+void print3(int n){
+	for(int i =1;i<=n;i++) {
+		for( int j =1; j<=i; j++){
+			cout<<j<<" "; 
 		}
 		cout<<endl;
 	}
 }
 	
 	int main(){
-		int n; //we can write here value of n if we don't need input from user
-		cin>>n; //for user input 
-		print2(n);	
+		int n ; //n=5
+		//cin>>n; //use this for user input otherwise ignore it
+		print3(n);	
 	}
+
+	
+	
