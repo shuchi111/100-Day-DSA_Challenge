@@ -28,7 +28,11 @@ Click on the
 "Fork" button in the top-right corner of the GitHub page.
 ```
 This creates a copy of the repository under your GitHub account.
+# If you wanna see  yourself in the contributor list
+---
+**Fork -> Clone -> create branch ->add files ( make changes) and commit ->Push Changes to Fork -> Create a Pull Request -> Wait for merge PR**
 
+---
  4.  Make a folder by your name or day if you are participating with me, and fill the box day by day.
 - Commit code and documentation daily.
 - All the questions must be attempted in C++ or Python. Other language is also allowed.
