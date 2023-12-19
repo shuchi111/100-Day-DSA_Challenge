@@ -77,9 +77,11 @@ This creates a copy of the repository under your GitHub account.
 
 ---
 ### **Day 0
-- [ ] Demo prerequisite
-- [ ] Prepare for this WAR✌
+- [x] Demo prerequisite
+- [x] Prepare for this WAR✌
 
+10 pattern questions
+Done Successfully!
 ---
 
 
