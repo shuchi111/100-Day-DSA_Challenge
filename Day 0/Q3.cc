@@ -24,8 +24,8 @@ void print3(int n){
 }
 	
 	int main(){
-		int n ; //n=5
-		//cin>>n; //use this for user input otherwise ignore it
+		int n; //n=5
+		cin>>n; //use this for user input otherwise ignore it
 		print3(n);	
 	}
 
