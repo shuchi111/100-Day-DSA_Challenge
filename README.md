@@ -91,23 +91,25 @@ Done Successfully!
 >**GFG**
 > [SDE DSA SHEET](https://www.geeksforgeeks.org/sde-sheet-a-complete-guide-for-sde-preparation/)
 > Data Structure(Compulsory)
-- [ ] [POTD](https://www.geeksforgeeks.org/problem-of-the-day?itm_source=geeksforgeeks&itm_medium=main_header&itm_campaign=practice_header )
-- [ ] [Subarray with given sum](https://practice.geeksforgeeks.org/problems/subarray-with-given-sum/0)
-- [ ] [Missing number in array](https://practice.geeksforgeeks.org/problems/missing-number-in-array/0)
-- [ ] [Leaders in an array](https://practice.geeksforgeeks.org/problems/leaders-in-an-array/0)
+
+- For  POTD - follow this [repository ](https://github.com/shuchi111/DSA)
+- [x] [POTD](https://www.geeksforgeeks.org/problem-of-the-day?itm_source=geeksforgeeks&itm_medium=main_header&itm_campaign=practice_header )
+- [x] [Subarray with given sum](https://practice.geeksforgeeks.org/problems/subarray-with-given-sum/0)
+- [x] [Missing number in array](https://practice.geeksforgeeks.org/problems/missing-number-in-array/0)
+- [x] [Leaders in an array](https://practice.geeksforgeeks.org/problems/leaders-in-an-array/0)
 > Algorithms(Optional)
- - [ ] [Kth smallest element](https://practice.geeksforgeeks.org/problems/kth-smallest-element/0)
-- [ ] [Majority Elementy](https://practice.geeksforgeeks.org/problems/majority-element/0)
+ - [x] [Kth smallest element](https://practice.geeksforgeeks.org/problems/kth-smallest-element/0)
+- [x] [Majority Elementy](https://practice.geeksforgeeks.org/problems/majority-element/0)
 > **Leetcode**
-- [ ] [POTD](https://leetcode.com/)
-- [ ] 1 question - [Leetcode 75]( https://leetcode.com/studyplan/leetcode-75/)
+- [x] [POTD](https://leetcode.com/)
+- [x] 1 question - [Leetcode 75]( https://leetcode.com/studyplan/leetcode-75/)
   >**HackerEarth**
-- [ ] [Basic programming]( https://www.hackerearth.com/practice/basic-programming/input-output/basics-of-input-output/practice-problems/  )-2 Questions
+- [x] [Basic programming]( https://www.hackerearth.com/practice/basic-programming/input-output/basics-of-input-output/practice-problems/  )-2 Questions
   
 > **Interviewbit**
 - [ ] Prepare on Saturday and Sunday - level-wise ( 10 questions/week)
 > 
-> **LOOSER BOX** :
+> **LOOSER BOX** : Shuchi 
 
 
 ---
