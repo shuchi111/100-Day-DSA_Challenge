@@ -89,6 +89,7 @@ Done Successfully!
 #### Tasks
 **DSA:**
 >**GFG**
+> [SDE DSA SHEET](https://www.geeksforgeeks.org/sde-sheet-a-complete-guide-for-sde-preparation/)
 > Data Structure(Compulsory)
 - [ ] [POTD](https://www.geeksforgeeks.org/problem-of-the-day?itm_source=geeksforgeeks&itm_medium=main_header&itm_campaign=practice_header )
 - [ ] [Subarray with given sum](https://practice.geeksforgeeks.org/problems/subarray-with-given-sum/0)
