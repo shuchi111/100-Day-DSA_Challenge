@@ -5,12 +5,12 @@
 
 
 ## Data Structure and Algorithms
-- In this repository, I will post links to 10 DSA questions every day( Question level - Starting from basic), from Day 1 to Day 100.
-- On Saturdays and Sundays I will post 20 questions.
+- In this repository, I will post links to 5-10 DSA questions every day( Question level - Starting from basic), from Day 1 to Day 100.
+- On Saturdays and Sundays I will post 10-20 questions.
 - **Strategy**
   ---
-- **Monday to Friday- (10 Questions) 4 hrs** ( 3 hrs to solve and 1 hr to understand the solution if you are unable to solve the question. You can get help from online resources, there are no fast and hard rules)
-- **Saturday + Sunday - 6 + hrs according to time( 20 questions)**.
+- **Monday to Friday- (5-10 Questions) 4 hrs** ( 3 hrs to solve and 1 hr to understand the solution if you are unable to solve the question. You can get help from online resources, there are no fast and hard rules)
+- **Saturday + Sunday - 6 + hrs according to time( 10-20 questions)**.
 - If any question is solved already,  memorize logic and concepts.
   ---
   **Participation Rule**
