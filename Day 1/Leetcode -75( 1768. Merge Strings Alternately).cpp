@@ -23,6 +23,20 @@ merged: a p b q   r   s
 
 Approach-
 
+1. Input: 2D grid `grid`.
+2. Initialize: 
+   - `m, n = len(grid), len(grid[0])`
+   - `row_ones = [0] * m`
+   - `col_ones = [0] * n`
+3. Count Ones in Each Row and Column:
+   - For each element in the grid:
+     - Update `row_ones[i]` and `col_ones[j]` based on the count of ones in each row and column.
+4. Calculate Modified Grid:
+   - For each element in the grid:
+     - Update each element using the formula `2 * (row_ones[i] + col_ones[j]) - m - n`.
+5. Output: Return the modified grid.
+
+
 */
 
 

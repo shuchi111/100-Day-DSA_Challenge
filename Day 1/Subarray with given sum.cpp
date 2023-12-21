@@ -29,7 +29,72 @@ from 1st position to 5th position
 is 15.
 
 
+*/
+//Solution - gfg Online portal
+/*
 
+Approach algorithm 
+
+
+Algorithm:
+The given code is a solution to find a continuous sub-array in an array arr such that the sum of elements in that sub-array is equal to a given number s. The algorithm uses a two-pointer approach to efficiently search for the sub-array.
+
+1. Initialization:
+
+Initialize two pointers i and j to 0.
+Initialize a variable sum to the value of arr[0].
+Initialize an empty vector v to store the result.
+2. Sliding Window Technique:
+
+Iterate while j is less than n.
+If sum is equal to s, add the current sub-array indices (i+1, j+1) to the vector v and return v.
+If sum is less than s, increment j and add arr[j] to sum.
+If sum is greater than s:
+If i < j, subtract arr[i] from sum and increment i.
+If i >= j, increment both i and j and update sum to the value of arr[i].
+No Sub-array Found:
+
+If no sub-array is found within the loop, add -1 to the vector v to indicate that no such sub-array exists.
+Return v.
+
+*/
+class Solution
+{
+    public:
+    //Function to find a continuous sub-array which adds up to a given number.
+    vector<int> subarraySum(vector<int>arr, int n, long long s){
+    int i=0,j=0,sum=arr[0];
+        vector<int> v;
+        while(j<n){
+            if(sum==s){
+                v.push_back(i+1);
+                v.push_back(j+1);
+                return v;
+            }
+            else if(sum<s) sum+=arr[++j];
+            else{
+                if(i<j){
+                    sum-=arr[i];
+                    i++;
+                }
+                else{
+                    i++;
+                    j++;
+                    sum=arr[i];
+                }
+            }
+        }
+        v.push_back(-1);
+        return v;
+    
+    }
+};
+
+
+
+
+
+/*
 There are three approaches-
 1. Using nested loop
 
@@ -40,15 +105,15 @@ iii. For every index in inner loop update currentSum = currentSum + arr[j]
 iv. If the currentSum is equal to the given sum then print the subarray.
 
 
-/* A simple program to print subarray
-with sum as given sum */
+ A simple program to print subarray
+with sum as given sum 
 
 #include <bits/stdc++.h>
 using namespace std;
  
 /* Returns true if the there is a subarray
 of arr[] with sum equal to 'sum' otherwise
-returns false. Also, prints the result */
+returns false. Also, prints the result 
 void subArraySum(int arr[], int n, int sum)
 {
  
@@ -87,10 +152,10 @@ int main()
     return 0;
 }
 
-/*
+
 2. Dynamic programming
 
 3. Sliding window
 
-
 */
+
