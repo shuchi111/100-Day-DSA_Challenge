@@ -55,7 +55,7 @@ This creates a copy of the repository under your GitHub account.
 #### Tasks
 - [x] Learn Git/GitHub.
 - [x] Submit your Name for 100 Days of Code. 
-> **LOOSER BOX** : Shuchi
+> **LOOSER BOX** : Shuchi , Sushant
 
 ---
 
@@ -63,7 +63,7 @@ This creates a copy of the repository under your GitHub account.
 #### Tasks
 - [x] Learn Git/GitHub.
 - [x] Get familiar with tools and coding platforms.
-> **LOOSER BOX** : Shuchi
+> **LOOSER BOX** : Shuchi , Sushant
  
 
   ---
@@ -73,7 +73,7 @@ This creates a copy of the repository under your GitHub account.
 - [x] Learn Git/GitHub.
 - [x]  Submit your Name for 100 Days of Code.
 - [x]  Markdown your calendar and time.
-> **LOOSER BOX** : Shuchi
+> **LOOSER BOX** : Shuchi , Sushant
 
 ---
 ### **Day 0
@@ -109,7 +109,7 @@ Done Successfully!
 > **Interviewbit**
 - [ ] Prepare on Saturday and Sunday - level-wise ( 10 questions/week)
 > 
-> **LOOSER BOX** : Shuchi 
+> **LOOSER BOX** : Shuchi , Sushant
 
 
 ---
@@ -134,7 +134,7 @@ Done Successfully!
   
 > **Interviewbit**
 - [ ] Prepare on Saturday and Sunday - level-wise ( 10 questions/week)
-> **LOOSER BOX** : 
+> **LOOSER BOX** : Shuchi
 
 ---
 
