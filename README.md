@@ -118,17 +118,17 @@ Done Successfully!
 #### Tasks
 **DSA :**
 > Data Structure(Compulsory)
-- [ ] [POTD](https://www.geeksforgeeks.org/problem-of-the-day?itm_source=geeksforgeeks&itm_medium=main_header&itm_campaign=practice_header )
-- [ ] [Finding middle element in a linked list](https://practice.geeksforgeeks.org/problems/finding-middle-element-in-a-linked-list/1)
-- [ ] [Reverse a linked list](https://practice.geeksforgeeks.org/problems/reverse-a-linked-list/1)
-- [ ] [Detect Loop in linked list](https://practice.geeksforgeeks.org/problems/detect-loop-in-linked-list/1)
+- [x] [POTD](https://www.geeksforgeeks.org/problem-of-the-day?itm_source=geeksforgeeks&itm_medium=main_header&itm_campaign=practice_header )
+- [x] [Finding middle element in a linked list](https://practice.geeksforgeeks.org/problems/finding-middle-element-in-a-linked-list/1)
+- [x] [Reverse a linked list](https://practice.geeksforgeeks.org/problems/reverse-a-linked-list/1)
+- [x] [Detect Loop in linked list](https://practice.geeksforgeeks.org/problems/detect-loop-in-linked-list/1)
 > Algorithms(Optional)
-- [ ] [Sort an array of 0s, 1s and 2s](https://practice.geeksforgeeks.org/problems/sort-an-array-of-0s-1s-and-2s/0)
-- [ ] [Chocolate Distribution Problem](https://practice.geeksforgeeks.org/problems/chocolate-distribution-problem/0)
+- [x] [Sort an array of 0s, 1s and 2s](https://practice.geeksforgeeks.org/problems/sort-an-array-of-0s-1s-and-2s/0)
+- [x] [Chocolate Distribution Problem](https://practice.geeksforgeeks.org/problems/chocolate-distribution-problem/0)
 
 > **Leetcode**
-- [ ] [POTD](https://leetcode.com/)
-- [ ] 1 question - [Leetcode 75]( https://leetcode.com/studyplan/leetcode-75/)
+- [x] [POTD](https://leetcode.com/)
+- [x] 1 question - [Leetcode 75]( https://leetcode.com/studyplan/leetcode-75/)
   >**HackerEarth**
 - [ ] [Basic programming]( https://www.hackerearth.com/practice/basic-programming/input-output/basics-of-input-output/practice-problems/  )-2 Questions
   
@@ -142,24 +142,24 @@ Done Successfully!
 #### Tasks
 **DSA :**
 > Data Structure(Compulsory)
-- [ ] [POTD](https://www.geeksforgeeks.org/problem-of-the-day?itm_source=geeksforgeeks&itm_medium=main_header&itm_campaign=practice_header )
-- [ ] [Immediate Smaller Element](https://practice.geeksforgeeks.org/problems/immediate-smaller-element/0)
-- [ ] [Level order traversal in spiral form](https://practice.geeksforgeeks.org/problems/level-order-traversal-in-spiral-form/1)
-- [ ] [Queue using two Stacks](https://practice.geeksforgeeks.org/problems/queue-using-two-stacks/1)
+- [x] [POTD](https://www.geeksforgeeks.org/problem-of-the-day?itm_source=geeksforgeeks&itm_medium=main_header&itm_campaign=practice_header )
+- [x] [Immediate Smaller Element](https://practice.geeksforgeeks.org/problems/immediate-smaller-element/0)
+- [x] [Level order traversal in spiral form](https://practice.geeksforgeeks.org/problems/level-order-traversal-in-spiral-form/1)
+- [x] [Queue using two Stacks](https://practice.geeksforgeeks.org/problems/queue-using-two-stacks/1)
 > Algorithms(Optional)
-- [ ] [Sort a stack](https://practice.geeksforgeeks.org/problems/sort-a-stack/1)
-- [ ] [Recursively remove all adjacent duplicates](https://practice.geeksforgeeks.org/problems/recursively-remove-all-adjacent-duplicates/0)
+- [x] [Sort a stack](https://practice.geeksforgeeks.org/problems/sort-a-stack/1)
+- [x] [Recursively remove all adjacent duplicates](https://practice.geeksforgeeks.org/problems/recursively-remove-all-adjacent-duplicates/0)
 
 > **Leetcode**
-- [ ] [POTD](https://leetcode.com/)
-- [ ] 1 question - [Leetcode 75]( https://leetcode.com/studyplan/leetcode-75/)
+- [x] [POTD](https://leetcode.com/)
+- [x] 1 question - [Leetcode 75]( https://leetcode.com/studyplan/leetcode-75/)
   >**HackerEarth**
-- [ ] [Basic programming]( https://www.hackerearth.com/practice/basic-programming/input-output/basics-of-input-output/practice-problems/  )-2 Questions
+- [x] [Basic programming]( https://www.hackerearth.com/practice/basic-programming/input-output/basics-of-input-output/practice-problems/  )-2 Questions
   
 > **Interviewbit**
 - [ ] Prepare on Saturday and Sunday - level-wise ( 10 questions/week)
 
-> **LOOSER BOX** : 
+> **LOOSER BOX** : Shuchi
 
 ---
 
