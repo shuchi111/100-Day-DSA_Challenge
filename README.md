@@ -122,10 +122,12 @@ Done Successfully!
 - [x] [Finding middle element in a linked list](https://practice.geeksforgeeks.org/problems/finding-middle-element-in-a-linked-list/1)
 - [x] [Reverse a linked list](https://practice.geeksforgeeks.org/problems/reverse-a-linked-list/1)
 - [x] [Detect Loop in linked list](https://practice.geeksforgeeks.org/problems/detect-loop-in-linked-list/1)
+- [x] [equilibrium point ] (https://www.geeksforgeeks.org/problems/equilibrium-point-1587115620/1)
+- [x] [trapping rainwater] (https://www.geeksforgeeks.org/trapping-rain-water/)
 > Algorithms(Optional)
 - [x] [Sort an array of 0s, 1s and 2s](https://practice.geeksforgeeks.org/problems/sort-an-array-of-0s-1s-and-2s/0)
 - [x] [Chocolate Distribution Problem](https://practice.geeksforgeeks.org/problems/chocolate-distribution-problem/0)
-
+- [x] [kadanes algorithm] (https://www.geeksforgeeks.org/largest-sum-contiguous-subarray/)
 > **Leetcode**
 - [x] [POTD](https://leetcode.com/)
 - [x] 1 question - [Leetcode 75]( https://leetcode.com/studyplan/leetcode-75/)
@@ -134,7 +136,7 @@ Done Successfully!
   
 > **Interviewbit**
 - [ ] Prepare on Saturday and Sunday - level-wise ( 10 questions/week)
-> **LOOSER BOX** : Shuchi,Anisha
+> **LOOSER BOX** : Shuchi,Anisha , Sushant
 
 ---
 
