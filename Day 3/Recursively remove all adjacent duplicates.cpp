@@ -1,6 +1,17 @@
 // Recursively remove all adjacent duplicates
 
 /*
+
+
+
+Input -
+S = "geeksforgeek"
+Output: "gksforgk"
+Explanation: 
+g(ee)ksforg(ee)k -> gksforgk
+
+
+
 Remove Adjacent Duplicates (rremove):
 Repeat the following steps until no more adjacent duplicates are found:
 Initialize an empty string temp.

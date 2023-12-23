@@ -1,4 +1,4 @@
-// Hackerrank 
+// Hackerearth Q4
 
 /*
 
