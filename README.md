@@ -161,7 +161,7 @@ Done Successfully!
 > **Interviewbit**
 - [ ] Prepare on Saturday and Sunday - level-wise ( 10 questions/week)
 
-> **LOOSER BOX** : Shuchi
+> **LOOSER BOX** : Shuchi,Anisha
 
 ---
 
