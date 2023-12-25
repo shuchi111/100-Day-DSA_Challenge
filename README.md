@@ -38,7 +38,7 @@ This creates a copy of the repository under your GitHub account.
 - All the questions must be attempted in C++ or Python. Other language is also allowed.
 > POTD of [Leetcode](https://github.com/shuchi111/DSA/tree/string) and GFG will continue.
 <br>
--A Weekly Contest will be added if All assigned Questions have been completed.
+-A Weekly Contest and [Striver Sheet](https://takeuforward.org/strivers-a2z-dsa-course/strivers-a2z-dsa-course-sheet-2/) will be added if All assigned Questions have been completed.
 <br>
 
 ---
@@ -210,7 +210,7 @@ Done Successfully!
   
 > **Interviewbit**
 - [ ] Prepare on Saturday and Sunday - level-wise ( 10 questions/week)
-
+- 24 Dec Sunday 
 > **LOOSER BOX** : Shuchi 
 
 ---
@@ -219,24 +219,25 @@ Done Successfully!
 #### Tasks
 **DSA :**
 > Data Structure(Compulsory)
-- [ ] [POTD](https://www.geeksforgeeks.org/problem-of-the-day?itm_source=geeksforgeeks&itm_medium=main_header&itm_campaign=practice_header )
+- [x] [POTD](https://www.geeksforgeeks.org/problem-of-the-day?itm_source=geeksforgeeks&itm_medium=main_header&itm_campaign=practice_header )
 - [x] [Minimum element in BST](https://practice.geeksforgeeks.org/problems/minimum-element-in-bst/1)
-- [ ] [Inorder Successor in BST](https://practice.geeksforgeeks.org/problems/inorder-successor-in-bst/1)
+- [x] [Inorder Successor in BST](https://practice.geeksforgeeks.org/problems/inorder-successor-in-bst/1)
 - [x] [Array to BST](https://practice.geeksforgeeks.org/problems/array-to-bst/0)
 - [x] [Insert a node in a BST](https://practice.geeksforgeeks.org/problems/insert-a-node-in-a-bst/1)
 > Algorithms(Optional)
 - [x] [Primes sum](https://practice.geeksforgeeks.org/problems/primes-sum/0)
-- [ ] [Largest prime factor](https://practice.geeksforgeeks.org/problems/largest-prime-factor/0)
+- [x] [Largest prime factor](https://practice.geeksforgeeks.org/problems/largest-prime-factor/0)
 > **Leetcode**
-- [ ] [POTD](https://leetcode.com/)
-- [ ] 1 question - [Leetcode 75]( https://leetcode.com/studyplan/leetcode-75/)
+- [x] [POTD](https://leetcode.com/)
+- [x] 1 question - [Leetcode 75]( https://leetcode.com/studyplan/leetcode-75/)
   >**HackerEarth**
-- [ ] [Basic programming]( https://www.hackerearth.com/practice/basic-programming/input-output/basics-of-input-output/practice-problems/  )-2 Questions
+- [x] [Basic programming]( https://www.hackerearth.com/practice/basic-programming/input-output/basics-of-input-output/practice-problems/  )-2 Questions
   
 > **Interviewbit**
 - [ ] Prepare on Saturday and Sunday - level-wise ( 10 questions/week)
+- 25 Dec 2023
 
-> **LOOSER BOX** : 
+> **LOOSER BOX** : Shuchi
 
 ---
 
@@ -341,6 +342,7 @@ Done Successfully!
   
 > **Interviewbit**
 - [ ] Prepare on Saturday and Sunday - level-wise ( 10 questions/week)
+- Saturday - [StriverSheet](https://takeuforward.org/strivers-a2z-dsa-course/strivers-a2z-dsa-course-sheet-2/)
       
 
 >**LOOSER BOX** : 
@@ -364,7 +366,9 @@ Done Successfully!
   
 > **Interviewbit**
 - [ ] Prepare on Saturday and Sunday - level-wise ( 10 questions/week)
->**LOOSER BOX** : 
+>**LOOSER BOX** :
+- Sunday 31 st Dec 2023
+- [Striver Sheet](https://takeuforward.org/strivers-a2z-dsa-course/strivers-a2z-dsa-course-sheet-2/)
 
 ---
 
@@ -391,7 +395,7 @@ Done Successfully!
 ---
 
 ### **Day 14**
-### Try and Complete the incomplete questions. Here is a list of all the questions that were not completed by anyone.
+### Try and Complete the incomplete questions. If already completed - Solve [striver Sheet](https://takeuforward.org/strivers-a2z-dsa-course/strivers-a2z-dsa-course-sheet-2/)
 **DSA :**
 > Data Structure(Compulsory)
 - [ ] [POTD](https://www.geeksforgeeks.org/problem-of-the-day?itm_source=geeksforgeeks&itm_medium=main_header&itm_campaign=practice_header )
@@ -414,7 +418,7 @@ Done Successfully!
 ---
 
 ### **Day 15**
-### Try and Complete the incomplete questions. Here is a list of all the questions that were not completed by anyone.
+### Try and Complete the incomplete questions.  If already completed - Solve [striver Sheet](https://takeuforward.org/strivers-a2z-dsa-course/strivers-a2z-dsa-course-sheet-2/)
 **DSA :**
 > Data Structure(Compulsory)
 - [ ] [POTD](https://www.geeksforgeeks.org/problem-of-the-day?itm_source=geeksforgeeks&itm_medium=main_header&itm_campaign=practice_header )
@@ -437,7 +441,7 @@ Done Successfully!
 ---
 
 ### **Day 16**
-### Try and Complete the incomplete questions. Here is a list of all the questions that were not completed by anyone.
+### Try and Complete the incomplete questions. If already completed - Solve [striver Sheet](https://takeuforward.org/strivers-a2z-dsa-course/strivers-a2z-dsa-course-sheet-2/)
 **DSA :**
 > Data Structure(Compulsory)
 - [ ] [POTD](https://www.geeksforgeeks.org/problem-of-the-day?itm_source=geeksforgeeks&itm_medium=main_header&itm_campaign=practice_header )
