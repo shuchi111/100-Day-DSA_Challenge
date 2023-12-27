@@ -186,7 +186,7 @@ Done Successfully!
 - [ ] Prepare on Saturday and Sunday - level-wise ( 10 questions/week)
 - 23 Dec 2023 - Saturday
 
-> **LOOSER BOX** : Shuchi 
+> **LOOSER BOX** : Shuchi ,Anisha 
 
 ---
 
