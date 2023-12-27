@@ -169,18 +169,18 @@ Done Successfully!
 #### Tasks
 **DSA :**
 > Data Structure(Compulsory)
-- [ ] [POTD](https://www.geeksforgeeks.org/problem-of-the-day?itm_source=geeksforgeeks&itm_medium=main_header&itm_campaign=practice_header )
-- [ ] [Implement Queue using array](https://practice.geeksforgeeks.org/problems/implement-queue-using-array/1)
+- [x] [POTD](https://www.geeksforgeeks.org/problem-of-the-day?itm_source=geeksforgeeks&itm_medium=main_header&itm_campaign=practice_header )
+- [x] [Implement Queue using array](https://practice.geeksforgeeks.org/problems/implement-queue-using-array/1)
 - [x] [Valid Substring](https://practice.geeksforgeeks.org/problems/valid-substring/0)
 - [x] [Reverse First K elements of Queue](https://practice.geeksforgeeks.org/problems/reverse-first-k-elements-of-queue/1)
 > Algorithms(Optional)
 - [x] [Activity Selection](https://practice.geeksforgeeks.org/problems/activity-selection/0)
 - [x] [Max length chain](https://practice.geeksforgeeks.org/problems/max-length-chain/1)
 > **Leetcode**
-- [ ] [POTD](https://leetcode.com/)
-- [ ] 1 question - [Leetcode 75]( https://leetcode.com/studyplan/leetcode-75/)
+- [x] [POTD](https://leetcode.com/)
+- [x] 1 question - [Leetcode 75]( https://leetcode.com/studyplan/leetcode-75/)
   >**HackerEarth**
-- [ ] [Basic programming]( https://www.hackerearth.com/practice/basic-programming/input-output/basics-of-input-output/practice-problems/  )-2 Questions
+- [x] [Basic programming]( https://www.hackerearth.com/practice/basic-programming/input-output/basics-of-input-output/practice-problems/  )-2 Questions
   
 > **Interviewbit**
 - [ ] Prepare on Saturday and Sunday - level-wise ( 10 questions/week)
@@ -194,7 +194,7 @@ Done Successfully!
 #### Tasks
 **DSA:**
 > Data Structure(Compulsory)
-- [ ] [POTD](https://www.geeksforgeeks.org/problem-of-the-day?itm_source=geeksforgeeks&itm_medium=main_header&itm_campaign=practice_header )
+- [x] [POTD](https://www.geeksforgeeks.org/problem-of-the-day?itm_source=geeksforgeeks&itm_medium=main_header&itm_campaign=practice_header )
 - [x] [Height of Binary Tree](https://practice.geeksforgeeks.org/problems/height-of-binary-tree/1)
 - [x] [Left View of Binary Tree](https://practice.geeksforgeeks.org/problems/left-view-of-binary-tree/1)
 - [x] [Print all nodes that don't have sibling](https://practice.geeksforgeeks.org/problems/print-all-nodes-that-dont-have-sibling/1)
@@ -203,8 +203,8 @@ Done Successfully!
 - [x] [Finding the numbers](https://practice.geeksforgeeks.org/problems/finding-the-numbers/0)
 - [x] [Josephus problem](https://practice.geeksforgeeks.org/problems/josephus-problem/1)
 > **Leetcode**
-- [ ] [POTD](https://leetcode.com/)
-- [ ] 1 question - [Leetcode 75]( https://leetcode.com/studyplan/leetcode-75/)
+- [x] [POTD](https://leetcode.com/)
+- [x] 1 question - [Leetcode 75]( https://leetcode.com/studyplan/leetcode-75/)
   >**HackerEarth**
 - [ ] [Basic programming]( https://www.hackerearth.com/practice/basic-programming/input-output/basics-of-input-output/practice-problems/  )-2 Questions
   
@@ -260,7 +260,7 @@ Done Successfully!
 > **Interviewbit**
 - [ ] Prepare on Saturday and Sunday - level-wise ( 10 questions/week)
 
-> **LOOSER BOX** : 
+> **LOOSER BOX** : Shuchi 
 
 ---
 
@@ -273,7 +273,7 @@ Done Successfully!
 - [x] [Search in a matrix](https://practice.geeksforgeeks.org/problems/search-in-a-matrix/0)
 - [x] [Flood fill Algorithm](https://practice.geeksforgeeks.org/problems/flood-fill-algorithm/0)
       > **Leetcode**
-- [ ] [POTD](https://leetcode.com/)
+- [x] [POTD](https://leetcode.com/)
 - [ ] 1 question - [Leetcode 75]( https://leetcode.com/studyplan/leetcode-75/)
   >**HackerEarth**
 - [ ] [Basic programming]( https://www.hackerearth.com/practice/basic-programming/input-output/basics-of-input-output/practice-problems/  )-2 Questions
@@ -281,7 +281,7 @@ Done Successfully!
 > **Interviewbit**
 - [ ] Prepare on Saturday and Sunday - level-wise ( 10 questions/week)
 
-> **LOOSER BOX** : 
+> **LOOSER BOX** : Shuchi
 
 ---
 
@@ -289,20 +289,20 @@ Done Successfully!
 #### Tasks
 **DSA :**
 > Data Structure(Compulsory)
-- [ ] [POTD](https://www.geeksforgeeks.org/problem-of-the-day?itm_source=geeksforgeeks&itm_medium=main_header&itm_campaign=practice_header )
+- [x] [POTD](https://www.geeksforgeeks.org/problem-of-the-day?itm_source=geeksforgeeks&itm_medium=main_header&itm_campaign=practice_header )
 - [x] [Equilibrium point](https://practice.geeksforgeeks.org/problems/equilibrium-point/0)
 - [x] [Maximum Index](https://practice.geeksforgeeks.org/problems/maximum-index/0)
 - [x] [Inversion of array](https://practice.geeksforgeeks.org/problems/inversion-of-array/0)
 > **Leetcode**
-- [ ] [POTD](https://leetcode.com/)
-- [ ] 1 question - [Leetcode 75]( https://leetcode.com/studyplan/leetcode-75/)
+- [x] [POTD](https://leetcode.com/)
+- [x] 1 question - [Leetcode 75]( https://leetcode.com/studyplan/leetcode-75/)
   >**HackerEarth**
 - [ ] [Basic programming]( https://www.hackerearth.com/practice/basic-programming/input-output/basics-of-input-output/practice-problems/  )-2 Questions
   
 > **Interviewbit**
 - [ ] Prepare on Saturday and Sunday - level-wise ( 10 questions/week)
 
-> **LOOSER BOX** : 
+> **LOOSER BOX** : Shuchi
 
 ---
 
