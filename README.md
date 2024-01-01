@@ -322,7 +322,7 @@ Done Successfully!
   
 > **Interviewbit**
 - [ ] Prepare on Saturday and Sunday - level-wise ( 10 questions/week)
-> ** LOOSER BOX** : 
+> ** LOOSER BOX** : Shuchi
 
 ---
 
@@ -345,7 +345,7 @@ Done Successfully!
 - Saturday - [StriverSheet](https://takeuforward.org/strivers-a2z-dsa-course/strivers-a2z-dsa-course-sheet-2/)
       
 
->**LOOSER BOX** : 
+>**LOOSER BOX** : Shuchi
 
 ---
 
@@ -366,7 +366,7 @@ Done Successfully!
   
 > **Interviewbit**
 - [ ] Prepare on Saturday and Sunday - level-wise ( 10 questions/week)
->**LOOSER BOX** :
+>**LOOSER BOX** : Shuchi
 - Sunday 31 st Dec 2023
 - [Striver Sheet](https://takeuforward.org/strivers-a2z-dsa-course/strivers-a2z-dsa-course-sheet-2/)
 
@@ -388,8 +388,10 @@ Done Successfully!
   
 > **Interviewbit**
 - [ ] Prepare on Saturday and Sunday - level-wise ( 10 questions/week)
-
->**LOOSER BOX** : 
+- --
+- 01 Jan 2024 🎉🎉🎉
+---
+>**LOOSER BOX** : Shuchi
   
 
 ---
@@ -414,7 +416,7 @@ Done Successfully!
 > **Interviewbit**
 - [ ] Prepare on Saturday and Sunday - level-wise ( 10 questions/week)
 
->**LOOSER BOX** :
+>**LOOSER BOX** :Shuchi
 ---
 
 ### **Day 15**
