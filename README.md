@@ -576,7 +576,7 @@ Done Successfully!
 - [ ] Prepare on Saturday and Sunday - level-wise ( 10 questions/week)
 
 
->**LOOSER BOX** : 
+>**LOOSER BOX** : Shuchi
 ---
 
 ### **Day 23**
@@ -596,7 +596,7 @@ Done Successfully!
 - [ ] Prepare on Saturday and Sunday - level-wise ( 10 questions/week)
 
 
->**LOOSER BOX** : 
+>**LOOSER BOX** : Shuchi
 
 ---
 
@@ -617,7 +617,7 @@ Done Successfully!
 - [ ] Prepare on Saturday and Sunday - level-wise ( 10 questions/week)
 
 
->**LOOSER BOX** : 
+>**LOOSER BOX** : Shuchi
 ---
 
 ### **Day 25**
@@ -640,7 +640,7 @@ Done Successfully!
 - [ ] Prepare on Saturday and Sunday - level-wise ( 10 questions/week)
 
 
->**LOOSER BOX** : 
+>**LOOSER BOX** : Shuchi
 
 ---
 
@@ -661,7 +661,7 @@ Done Successfully!
 - [ ] Prepare on Saturday and Sunday - level-wise ( 10 questions/week)
 
 
->**LOOSER BOX** : 
+>**LOOSER BOX** : Shuchi
 
 ---
 
