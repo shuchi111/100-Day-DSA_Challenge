@@ -1,0 +1,37 @@
+// Binary Heap Operations
+Example 1:
+
+Input:
+Q = 7
+Queries:
+insertKey(4)
+insertKey(2)
+extractMin()
+insertKey(6)
+deleteKey(0)
+extractMin()
+extractMin()
+Output: 2 6 - 1
+Explanation: In the first test case for
+query 
+insertKey(4) the heap will have  {4}  
+insertKey(2) the heap will be {2 4}
+extractMin() removes min element from 
+             heap ie 2 and prints it
+             now heap is {4} 
+insertKey(6) inserts 6 to heap now heap
+             is {4 6}
+deleteKey(0) delete element at position 0
+             of the heap,now heap is {6}
+extractMin() remove min element from heap
+             ie 6 and prints it  now the
+             heap is empty
+extractMin() since the heap is empty thus
+             no min element exist so -1
+             is printed.
+
+
+/*
+
+//Solution
+
