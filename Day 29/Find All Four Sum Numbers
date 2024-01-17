@@ -1,0 +1,108 @@
+// Find All Four Sum Numbers
+/*
+Example 1:
+
+Input:
+N = 5, K = 3
+A[] = {0,0,2,1,1}
+Output: 0 0 1 2 
+Explanation: Sum of 0, 0, 1, 2 is equal
+to K.
+
+
+Algorithm:
+
+1. Sort the array: Sorting the array allows us to easily skip duplicates and control the movement of pointers.
+2. Nested Loops: The outer loop (i) iterates over the first element of the potential quadruplet, and the inner loop (j) iterates over the second element.
+3. Two Pointers (l and r): For each pair of elements (arr[i] and arr[j]), we use two pointers (l and r) to find the remaining two elements whose sum is equal to the target (k - (arr[i] + arr[j])).
+4. Pointer Movement: Move the pointers l and r towards each other based on the comparison of the sum of elements. This efficiently explores the space of potential quadruplets.
+5. Avoid Duplicates: Skip duplicate elements to ensure unique quadruplets.
+6. Result Vector: Store the unique quadruplets in the result vector.
+
+The resulting vector contains all unique quadruplets with the desired sum.
+
+*/
+
+//Solution
+
+//{ Driver Code Starts
+#include <bits/stdc++.h>
+using namespace std;
+
+
+// } Driver Code Ends
+// User function template for C++
+
+
+
+class Solution{
+    public:
+    vector<vector<int> > fourSum(vector<int> &arr, int k) {
+    vector<vector<int>> ans;
+    int n = arr.size();
+    sort(arr.begin(), arr.end());
+    for(int i = 0; i < n - 3; i++) {
+        if(arr[i] > k || (i > 0 && arr[i - 1] == arr[i])) continue;
+        for(int j = i + 1; j < n - 2; j++) {
+            if(arr[i] + arr[j] > k || (j > i + 1 && arr[j] == arr[j - 1])) continue;
+
+            int curr = arr[i] + arr[j];
+
+            int rem = k - curr;
+            int l = j + 1, r = n - 1;
+
+            while(l < r) {
+                if(arr[l] + arr[r] > rem) {
+                    r--;
+                } else if(arr[l] + arr[r] < rem) {
+                    l++;
+                } else {
+                    vector<int> temp;
+                    temp.push_back(arr[i]);
+                    temp.push_back(arr[j]);
+                    temp.push_back(arr[l]);
+                    temp.push_back(arr[r]);
+                    
+                    ans.push_back(temp);
+                    l++, r--;
+                    
+                    while(l < r && l > j + 1 && arr[l] == arr[l - 1]) l++;
+                    while(l < r && r < n - 1 && arr[r] == arr[r + 1]) r--;
+                    
+                }
+            }
+            
+        }
+
+    }
+    return ans;
+}
+};
+
+//{ Driver Code Starts.
+int main() {
+    int t;
+    cin >> t;
+    while (t--) {
+        int n, k, i;
+        cin >> n >> k;
+        vector<int> a(n);
+        for (i = 0; i < n; i++) {
+            cin >> a[i];
+        }
+        Solution ob;
+        vector<vector<int> > ans = ob.fourSum(a, k);
+        for (auto &v : ans) {
+            for (int &u : v) {
+                cout << u << " ";
+            }
+            cout << "$";
+        }
+        if (ans.empty()) {
+            cout << -1;
+        }
+        cout << "\n";
+    }
+    return 0;
+}
+// } Driver Code Ends
