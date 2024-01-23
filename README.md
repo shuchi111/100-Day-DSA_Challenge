@@ -39,8 +39,11 @@ This creates a copy of the repository under your GitHub account.
 > POTD of [Leetcode](https://github.com/shuchi111/DSA/tree/string) and GFG will continue.
 <br>
 -A Weekly Contest and [Striver Sheet](https://takeuforward.org/strivers-a2z-dsa-course/strivers-a2z-dsa-course-sheet-2/) will be added if All assigned Questions have been completed.
-<br>
 
+---
+If you are not able to do just do 1-2 Questions to be consistent, it will make good habit
+<br>
+---
 ---
 
 > 100 Days of Code will start from 16 Dec 2023
@@ -683,7 +686,7 @@ Done Successfully!
 - [ ] Prepare on Saturday and Sunday - level-wise ( 10 questions/week)
 
 
->**LOOSER BOX** : 
+>**LOOSER BOX** : Shuchi
 
 
 ---
@@ -705,7 +708,7 @@ Done Successfully!
 - [ ] Prepare on Saturday and Sunday - level-wise ( 10 questions/week)
 
 
->**LOOSER BOX** : 
+>**LOOSER BOX** : Shuchi
 
 
 ---
@@ -727,7 +730,7 @@ Done Successfully!
 - [ ] Prepare on Saturday and Sunday - level-wise ( 10 questions/week)
 
 
->**LOOSER BOX** : 
+>**LOOSER BOX** : Shuchi
 
 ---
 
@@ -748,7 +751,7 @@ Done Successfully!
 - [ ] Prepare on Saturday and Sunday - level-wise ( 10 questions/week)
 
 
->**LOOSER BOX** : 
+>**LOOSER BOX** : Shuchi
 
 ---
 
@@ -788,12 +791,12 @@ Finally, there is a long road ahead **Keep on Grinding** :muscle: .<br>
 
 ### **Day 32**
 **DSA :**
-- [ ] [POTD](https://www.geeksforgeeks.org/problem-of-the-day?itm_source=geeksforgeeks&itm_medium=main_header&itm_campaign=practice_header )
+- [x] [POTD](https://www.geeksforgeeks.org/problem-of-the-day?itm_source=geeksforgeeks&itm_medium=main_header&itm_campaign=practice_header )
 - [ ] [Clone a linked list with next and random pointer](https://practice.geeksforgeeks.org/problems/clone-a-linked-list-with-next-and-random-pointer/1)
 - [x] [Flattening a Linked List](https://practice.geeksforgeeks.org/problems/flattening-a-linked-list/1)
 - [ ] [Delete nodes having greater value on right](https://practice.geeksforgeeks.org/problems/delete-nodes-having-greater-value-on-right/1)
 > **Leetcode**
-- [ ] [POTD](https://leetcode.com/)
+- [x] [POTD](https://leetcode.com/)
 - [ ] 1 question - [Leetcode 75]( https://leetcode.com/studyplan/leetcode-75/)
   >**HackerEarth**
 - [  ] [Basic programming]( https://www.hackerearth.com/practice/basic-programming/input-output/basics-of-input-output/practice-problems/  )-2 Questions
@@ -802,7 +805,7 @@ Finally, there is a long road ahead **Keep on Grinding** :muscle: .<br>
 - [ ] Prepare on Saturday and Sunday - level-wise ( 10 questions/week)
 
 
->**LOOSER BOX** : 
+>**LOOSER BOX** : Shuchi
 ---
 
 ### **Day 33**
@@ -821,15 +824,15 @@ Finally, there is a long road ahead **Keep on Grinding** :muscle: .<br>
 - [ ] Prepare on Saturday and Sunday - level-wise ( 10 questions/week)
 
 
->**LOOSER BOX** : 
+>**LOOSER BOX** : Shuchi
 ---
 
 ### **Day 34**
 **DSA :**
-- [ ] [POTD](https://www.geeksforgeeks.org/problem-of-the-day?itm_source=geeksforgeeks&itm_medium=main_header&itm_campaign=practice_header )
-- [ ] [Card Rotation](https://practice.geeksforgeeks.org/problems/card-rotation/0)
+- [x] [POTD](https://www.geeksforgeeks.org/problem-of-the-day?itm_source=geeksforgeeks&itm_medium=main_header&itm_campaign=practice_header )
+- [x] [Card Rotation](https://practice.geeksforgeeks.org/problems/card-rotation/0)
 - [ ] [Make Binary Tree From Linked List](https://practice.geeksforgeeks.org/problems/make-binary-tree/1)
-- [ ] [Check Mirror in N-ary tree](https://practice.geeksforgeeks.org/problems/check-mirror-in-n-ary-tree/0)
+- [x] [Check Mirror in N-ary tree](https://practice.geeksforgeeks.org/problems/check-mirror-in-n-ary-tree/0)
 - [ ] [Dequeue Implementations](https://practice.geeksforgeeks.org/problems/print-binary-tree-levels-in-sorted-order/0)
 - [x] [Deque Implementations](https://practice.geeksforgeeks.org/problems/deque-implementations/1)
 > **Leetcode**
@@ -842,19 +845,19 @@ Finally, there is a long road ahead **Keep on Grinding** :muscle: .<br>
 - [ ] Prepare on Saturday and Sunday - level-wise ( 10 questions/week)
 
 
->**LOOSER BOX** : 
+>**LOOSER BOX** : Shuchi
 
 ---
 
 ### **Day 35**
 **DSA :**
-- [ ] [POTD](https://www.geeksforgeeks.org/problem-of-the-day?itm_source=geeksforgeeks&itm_medium=main_header&itm_campaign=practice_header )
+- [x] [POTD](https://www.geeksforgeeks.org/problem-of-the-day?itm_source=geeksforgeeks&itm_medium=main_header&itm_campaign=practice_header )
 - [ ] [Diameter of Binary Tree](https://practice.geeksforgeeks.org/problems/diameter-of-binary-tree/1)
 - [x] [Lowest Common Ancestor in a BST](https://practice.geeksforgeeks.org/problems/lowest-common-ancestor-in-a-bst/1)
 - [ ] [Boundary Traversal of binary tree](https://practice.geeksforgeeks.org/problems/boundary-traversal-of-binary-tree/1)
 > **Leetcode**
-- [ ] [POTD](https://leetcode.com/)
-- [ ] 1 question - [Leetcode 75]( https://leetcode.com/studyplan/leetcode-75/)
+- [x] [POTD](https://leetcode.com/)
+- [x] 1 question - [Leetcode 75]( https://leetcode.com/studyplan/leetcode-75/)
   >**HackerEarth**
 - [ ] [Basic programming]( https://www.hackerearth.com/practice/basic-programming/input-output/basics-of-input-output/practice-problems/  )-2 Questions
   
