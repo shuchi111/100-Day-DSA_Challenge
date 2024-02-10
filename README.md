@@ -786,7 +786,7 @@ Finally, there is a long road ahead **Keep on Grinding** :muscle: .<br>
 - [ ] Prepare on Saturday and Sunday - level-wise ( 10 questions/week)
 
 
->**LOOSER BOX** : 
+>**LOOSER BOX** : Shuchi
 ---
 
 ### **Day 32**
@@ -865,7 +865,7 @@ Finally, there is a long road ahead **Keep on Grinding** :muscle: .<br>
 - [ ] Prepare on Saturday and Sunday - level-wise ( 10 questions/week)
 
 
->**LOOSER BOX** : 
+>**LOOSER BOX** : Shuchi
 ---
 
 ### **Day 36**
@@ -890,7 +890,7 @@ Finally, there is a long road ahead **Keep on Grinding** :muscle: .<br>
 - [ ] Prepare on Saturday and Sunday - level-wise ( 10 questions/week)
 
 
->**LOOSER BOX** : 
+>**LOOSER BOX** : Shuchi
 
 ---
 
@@ -917,7 +917,7 @@ if complete revise or solve HackerEarth more questions.
 - [ ] Prepare on Saturday and Sunday - level-wise ( 10 questions/week)
 
 
->**LOOSER BOX** : 
+>**LOOSER BOX** : Shuchi
 
 ---
 
@@ -940,7 +940,7 @@ if complete revise or solve HackerEarth more questions.
 - [ ] Prepare on Saturday and Sunday - level-wise ( 10 questions/week)
 
 
->**LOOSER BOX** : 
+>**LOOSER BOX** : Shuchi
 ---
 
 ### **Day 39**
@@ -959,7 +959,7 @@ if complete revise or solve HackerEarth more questions.
 - [ ] Prepare on Saturday and Sunday - level-wise ( 10 questions/week)
 
 
->**LOOSER BOX** : 
+>**LOOSER BOX** : Shuchi
 
 ### **Day 40**
 ### Try and Complete the incomplete questions. if complete revise or solve HackerEarth more questions
@@ -976,7 +976,7 @@ if complete revise or solve HackerEarth more questions.
 - [ ] Prepare on Saturday and Sunday - level-wise ( 10 questions/week)
 
 
->**LOOSER BOX** : 
+>**LOOSER BOX** : Shuchi
 ---
 
 ### **Day 41**
@@ -994,7 +994,7 @@ if complete revise or solve HackerEarth more questions.
 - [ ] Prepare on Saturday and Sunday - level-wise ( 10 questions/week)
 
 
->**LOOSER BOX** : 
+>**LOOSER BOX** : Shuchi
 
 ---
 
@@ -1015,7 +1015,7 @@ if complete revise or solve HackerEarth more questions.
 - [ ] Prepare on Saturday and Sunday - level-wise ( 10 questions/week)
 
 
->**LOOSER BOX** : 
+>**LOOSER BOX** : Shuchi
 
 ---
 
@@ -1035,7 +1035,7 @@ if complete revise or solve HackerEarth more questions.
 - [ ] Prepare on Saturday and Sunday - level-wise ( 10 questions/week)
 
 
->**LOOSER BOX** : 
+>**LOOSER BOX** : Shuchi
 ---
 
 ### **Day 44**
@@ -1054,7 +1054,7 @@ if complete revise or solve HackerEarth more questions.
 - [ ] Prepare on Saturday and Sunday - level-wise ( 10 questions/week)
 
 
->**LOOSER BOX** : 
+>**LOOSER BOX** : Shuchi
 ---
 
 ### **Day 45**
@@ -1073,7 +1073,7 @@ if complete revise or solve HackerEarth more questions.
 - [ ] Prepare on Saturday and Sunday - level-wise ( 10 questions/week)
 
 
->**LOOSER BOX** : 
+>**LOOSER BOX** : Shuchi
 ---
 
 ### **Day 46**
@@ -1092,7 +1092,7 @@ if complete revise or solve HackerEarth more questions.
 - [ ] Prepare on Saturday and Sunday - level-wise ( 10 questions/week)
 
 
->**LOOSER BOX** : 
+>**LOOSER BOX** : Shuchi
 
 ---
 
@@ -1112,7 +1112,7 @@ if complete revise or solve HackerEarth more questions.
 - [ ] Prepare on Saturday and Sunday - level-wise ( 10 questions/week)
 
 
->**LOOSER BOX** : 
+>**LOOSER BOX** : Shuchi
 
 ---
 
@@ -1133,7 +1133,7 @@ if complete revise or solve HackerEarth more questions.
 - [ ] Prepare on Saturday and Sunday - level-wise ( 10 questions/week)
 
 
->**LOOSER BOX** : 
+>**LOOSER BOX** : Shuchi
 ---
 
 ### **Day 49**
@@ -1152,7 +1152,7 @@ if complete revise or solve HackerEarth more questions.
 - [ ] Prepare on Saturday and Sunday - level-wise ( 10 questions/week)
 
 
->**LOOSER BOX** : 
+>**LOOSER BOX** : Shuchi
 
 ---
 
@@ -1172,7 +1172,7 @@ if complete revise or solve HackerEarth more questions.
 - [ ] Prepare on Saturday and Sunday - level-wise ( 10 questions/week)
 
 
->**LOOSER BOX** : 
+>**LOOSER BOX** : Shuchi
 
 ---
 
@@ -1192,7 +1192,7 @@ if complete revise or solve HackerEarth more questions.
 - [ ] Prepare on Saturday and Sunday - level-wise ( 10 questions/week)
 
 
->**LOOSER BOX** : 
+>**LOOSER BOX** : Shuchi
 
 ---
 
@@ -1220,7 +1220,7 @@ if complete revise or solve HackerEarth more questions.
 - [ ] Prepare on Saturday and Sunday - level-wise ( 10 questions/week)
 
 
->**LOOSER BOX** : 
+>**LOOSER BOX** : Shuchi
 ---
 
 ### **Day 53**
